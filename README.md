@@ -20,7 +20,7 @@
 ---
 
 <img align="left" alt="Pramod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pramodr&show_icons=true&hide_border=true" />
-[void]: #
+[void]: https://github.com/pramodr
 [twitter]: https://twitter.com/rjpramod
 [linkedin]: https://linkedin.com/in/pramod-raje
 [instagram]: https://instagram.com/pramod_raje
