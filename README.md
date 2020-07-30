@@ -24,7 +24,6 @@
 [<img align="left" alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][voidlink]
 [<img align="left" alt="Sass" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />][voidlink]
 [<img align="left" alt="Adobe Photoshop" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />][voidlink]
-
 [<img align="left" alt="Visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][voidlink]
 [<img align="left" alt="Eclipee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eclipseide.svg" />][voidlink]
 [<img align="left" alt="Sublime" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sublimetext.svg" />][voidlink]
@@ -35,15 +34,16 @@
 [<img align="left" alt="Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][voidlink]
 [<img align="left" alt="Npm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />][voidlink]
 [<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />][voidlink]
-
-[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][voidlink]
-[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/styled-components.svg" />][voidlink]
-[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/material-ui.svg" />][voidlink]
-[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />][voidlink]
-[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />][voidlink]
-[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />][voidlink]
-[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />][voidlink]
-[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/electron.svg" />][voidlink]
+<br />
+<br />
+[<img align="left" alt="Redux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][voidlink]
+[<img align="left" alt="Styled components" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/styled-components.svg" />][voidlink]
+[<img align="left" alt="Material UI" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/material-ui.svg" />][voidlink]
+[<img align="left" alt="Jest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />][voidlink]
+[<img align="left" alt="Typescript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />][voidlink]
+[<img align="left" alt="Nextjs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />][voidlink]
+[<img align="left" alt="Graphql" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />][voidlink]
+[<img align="left" alt="Electron" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/electron.svg" />][voidlink]
 
 <br/>
 
