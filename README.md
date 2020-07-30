@@ -14,13 +14,13 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46569391/88923454-63846a00-d28f-11ea-85a2-27eedcfde1cc.png" />
+<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46569391/88923454-63846a00-d28f-11ea-85a2-27eedcfde1cc.png" />[void]
 <br/>
 
 ---
 
 <img align="left" alt="Pramod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pramodr&show_icons=true&hide_border=true" />
-
+[void]: #
 [twitter]: https://twitter.com/rjpramod
 [linkedin]: https://linkedin.com/in/pramod-raje
 [instagram]: https://instagram.com/pramod_raje
