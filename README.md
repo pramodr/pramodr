@@ -32,6 +32,16 @@
 [<img align="left" alt="Svn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/subversion.svg" />][voidlink]
 [<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][voidlink]
 [<img align="left" alt="Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][voidlink]
+[<img align="left" alt="Npm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />][voidlink]
+[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />][voidlink]
+[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][voidlink]
+[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/styled-components.svg" />][voidlink]
+[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/material-ui.svg" />][voidlink]
+[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />][voidlink]
+[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />][voidlink]
+[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />][voidlink]
+[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />][voidlink]
+[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/electron.svg" />][voidlink]
 
 <br/>
 
