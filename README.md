@@ -25,8 +25,6 @@
 [<img align="left" alt="Sass" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />][voidlink]
 [<img align="left" alt="Adobe Photoshop" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />][voidlink]
 
-<br />
-
 [<img align="left" alt="Visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][voidlink]
 [<img align="left" alt="Eclipee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eclipseide.svg" />][voidlink]
 [<img align="left" alt="Sublime" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sublimetext.svg" />][voidlink]
@@ -37,8 +35,6 @@
 [<img align="left" alt="Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][voidlink]
 [<img align="left" alt="Npm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />][voidlink]
 [<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />][voidlink]
-
-<br />
 
 [<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][voidlink]
 [<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/styled-components.svg" />][voidlink]
