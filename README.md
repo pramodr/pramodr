@@ -1,9 +1,8 @@
 ### Hi there, I'm Pramod 👋
-
-## I'm a Developer! 
+## I'm a UI/Ux Developer! 
 - 🔭 I’m currently working on a Portfolio!
-- 🌱 I’m currently learning everything 🤣:rofl:
-- ⚡ Fun fact: I love to watch movies
+- 🌱 I’m currently learning something new
+- ⚡ Fun fact: I love to watch Action, Adventure, Sci-Fi movies
 
 ### Follow me on:
 
