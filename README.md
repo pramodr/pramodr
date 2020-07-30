@@ -1,8 +1,8 @@
 ### Hi there, I'm Pramod 👋
 
-## I'm a Developer!
+## I'm a Developer! 
 - 🔭 I’m currently working on a Portfolio!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 🤣:rofl:
 - ⚡ Fun fact: I love to watch movies
 
 ### Connect with me:
