@@ -14,7 +14,7 @@
 <br />
 
 ### Languages and Tools:
-
+<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46569391/88923454-63846a00-d28f-11ea-85a2-27eedcfde1cc.png" />
 <br/>
 
 ---
