@@ -15,6 +15,7 @@
 
 ### Languages and Tools:
 ---
+**HTML5**
 <img align="left" alt="Pramod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pramodr&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/rjpramod
