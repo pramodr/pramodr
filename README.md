@@ -35,6 +35,9 @@
 [<img align="left" alt="Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][voidlink]
 [<img align="left" alt="Npm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />][voidlink]
 [<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />][voidlink]
+
+<br/>
+
 [<img align="left" alt="Redux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />][voidlink]
 [<img align="left" alt="Styled components" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/styled-components.svg" />][voidlink]
 [<img align="left" alt="Material UI" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/material-ui.svg" />][voidlink]
