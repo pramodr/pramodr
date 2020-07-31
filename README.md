@@ -1,5 +1,7 @@
 ### Hi there, I'm Pramod 👋
-## I'm a UI/Ux Developer! 
+
+## I'm a UI/Ux Developer!
+
 - 🔭 I’m currently working on a Portfolio!
 - 🌱 I’m currently learning something new
 - ⚡ Fun fact: I love to watch Action, Adventure, Sci-Fi movies
@@ -12,6 +14,7 @@
 <br />
 
 ### Languages and Tools:
+
 [<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][voidlink]
 [<img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />][voidlink]
 [<img align="left" alt="Javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][voidlink]
@@ -42,7 +45,7 @@
 [<img align="left" alt="Nextjs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />][voidlink]
 [<img align="left" alt="Graphql" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />][voidlink]
 [<img align="left" alt="Electron" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/electron.svg" />][voidlink]
-
+[<img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][voidlink]
 <br/>
 
 ---
