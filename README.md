@@ -3,7 +3,7 @@
 ## I'm a UI/Ux Developer!
 
 - 🔭 I’m currently working on a Portfolio!
-- 🌱 I’m currently learning something new
+- 🌱 I’m currently acquiring new skills
 - ⚡ Fun fact: I love to watch Action, Adventure, Sci-Fi movies
 
 ### Follow me on:
