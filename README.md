@@ -12,9 +12,6 @@
 [<img align="left" alt="pramod-raje | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-[![Twitter: rjpramod(https://img.shields.io/twitter/follow/rjpramod?style=social)](https://twitter.com/rjpramod)
-
-
 ### Languages and Tools:
 
 [<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][voidlink]
