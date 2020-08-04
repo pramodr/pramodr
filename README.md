@@ -12,10 +12,8 @@
 [<img align="left" alt="pramod-raje | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodr&label=Views&color=blue&style=plastic" alt="pramodr" /> </p>
-<br />
-
 [![Linkedin: pramodraje](https://img.shields.io/badge/-rjpramod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pramod-raje/)][linkedin]
-![Twitter Follow](https://img.shields.io/twitter/follow/pramodr)
+![Twitter Follow](https://img.shields.io/twitter/follow/rjpramod)
 
 ### Languages and Tools:
 
