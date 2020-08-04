@@ -11,8 +11,7 @@
 [<img align="left" alt="rjpramod | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="pramod-raje | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodr&label=Views&color=blue&style=plastic" alt="pramodr" /> </p>
-<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][voidlink]
